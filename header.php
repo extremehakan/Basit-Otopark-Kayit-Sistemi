@@ -28,6 +28,6 @@
           <a type="button" class="btn btn-primary" href="arac-sil.php">Araç Çıkar</a>
           <a type="button" class="btn btn-primary">Araç Listesi</a>
           <a type="button" class="btn btn-primary">Plaka Arat</a>
-          <a type="button" class="btn btn-primary">Deneme Buton</a>
+        
         </div>
       </div>
